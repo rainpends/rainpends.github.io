@@ -9,5 +9,11 @@
     margin: auto;
     width: 50%;
     border: none;
-    padding: 20px;
+    padding: 10px;
+}
+.Favorites-div .Hobbies-div .Childhood-dream-div {
+    margin: auto;
+    width: 50%;
+    border: none;
+    padding: 10px;
 }
