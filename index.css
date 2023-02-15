@@ -1,13 +1,36 @@
 .Photo-div {
     margin: auto;
-    width: auto;
+    width: 50%;
     border: black;
     padding: 10px;
 }
 
 .names-div {
     margin: auto;
-    width: auto;
+    width: 50%;
     border: none;
-    padding: 20px;
+    padding: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.Favorites-div .Hobbies-div .Childhood-dream-div {
+    margin: auto;
+    width: 50%;
+    border: none;
+    padding: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.Favorites-div {
+    background: blue;
+    color: white;
+}
+
+.Hobbies-div {
+    background: red;
+    color: white;
+}
+
+.Childhood-dream-div {
+    background: green;
+    color: white;
 }
